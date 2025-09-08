@@ -18,6 +18,7 @@ Principais tecnologias:
 | Users    | 8080  | Gerencia usuários e auth      | [users.md](./docs/users.md)      |
 | Orders   | 8020  | Gerencia pedidos              | [orders.md](./docs/orders.md)    |
 | Products | 8010  | Controle de produto e estoque | [products.md](./docs/products.md) |
+| Api    | 8000  | Api Gateway a ser usada      |       |
 | RabbitMQ | 15672 | Mensageria                    |  |
 | Jaeger | 16686 | Telemetria                    |  |
 
