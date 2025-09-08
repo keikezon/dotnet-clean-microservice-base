@@ -46,7 +46,7 @@ Principais tecnologias:
    ```
 ---
 
-[Link do postman](https://.postman.co/workspace/My-Workspace~8b18a694-61c8-406f-8258-cc76086c3374/collection/412296-0e1db38a-3a59-49ea-b4e6-09668c3d2b6f?action=share&creator=412296&active-environment=412296-72a04eac-c6f4-44eb-aa48-223c58504492)
+[Link do postman](https://web.postman.co/workspace/My-Workspace~8b18a694-61c8-406f-8258-cc76086c3374/collection/412296-0e1db38a-3a59-49ea-b4e6-09668c3d2b6f?action=share&source=copy-link&creator=412296)
 
 👥 Contribuidores
 
