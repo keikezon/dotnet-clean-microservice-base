@@ -1,0 +1,11 @@
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/bin/Debug/net8.0/Order.Domain.deps.json
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/bin/Debug/net8.0/Order.Domain.dll
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/bin/Debug/net8.0/Order.Domain.pdb
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/obj/Debug/net8.0/Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/obj/Debug/net8.0/Order.Domain.AssemblyInfoInputs.cache
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/obj/Debug/net8.0/Order.Domain.AssemblyInfo.cs
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/obj/Debug/net8.0/Order.Domain.csproj.CoreCompileInputs.cache
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/obj/Debug/net8.0/Order.Domain.dll
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/obj/Debug/net8.0/refint/Order.Domain.dll
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/obj/Debug/net8.0/Order.Domain.pdb
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Domain/obj/Debug/net8.0/ref/Order.Domain.dll

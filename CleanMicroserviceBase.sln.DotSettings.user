@@ -1,0 +1,33 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AHostingAbstractionsWebHostBuilderExtensions_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F4dc9b79297bbe03b170e8a6629789c26942f7f5deca728af5119032617f4c8a_003FHostingAbstractionsWebHostBuilderExtensions_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AIPublishEndpoint_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003F71d1ed3c8b415869f7243ab3f241b707029e768647d1e2161adb67410746e_003FIPublishEndpoint_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ARelationalConnection_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003F696ea149e41ddc60bdd9238370d01ba5f417a4a91ce8ac42c17d4eee0afa038_003FRelationalConnection_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/DotNetCliExePath/@EntryValue">/usr/local/share/dotnet/dotnet</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69fb9871_002Ddfef_002D4a4e_002Daf0a_002D86e9a993a81d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Create_User_And_Publish_Event" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::CreateUserTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::Identity.Tests.Users.CreateUserHandlerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::CreateUserHandlerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::Identity.API.Tests.Controllers.UsersControllerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::UsersControllerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::GetUserHandlerTests.Handle_ShouldThrowArgumentException_WhenDataIsInvalid&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::GetUserHandlerTests.Handle_ShouldGetUser&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::GetUsersControllerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::CreateUsersControllerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::LoginControllerTests.Login_ShouldReturnOk_WithToken_WhenValidCredentials&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::LoginControllerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::LoginUserHandlerTests.Handle_ShouldCreateUserAndPublishEvent&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::LoginUserHandlerTests.Handle_ShouldLoginUserAndPublishEvent&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::LoginUserHandlerTests.Handle_ShouldThrowArgumentException_WhenDataIsInvalid&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::6A7B8C9D-0E1F-4A2B-93C2-7D8E9F0A1B33::net8.0::Identity.Tests.Users.TokenTests.Handle_ShouldLoginUserAndPublishEvent&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::813FBF6F-5B5F-4641-98E6-CF08E6EDBC08::net8.0::Order.Tests.OrderControllerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::813FBF6F-5B5F-4641-98E6-CF08E6EDBC08::net8.0::OrderHandlerTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;Project Location="/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Product/Product.Tests" Presentation="&amp;lt;Services&amp;gt;\&amp;lt;Product&amp;gt;\&amp;lt;Product.Tests&amp;gt;" /&gt;
+    &lt;Project Location="/Users/keith/Downloads/dotnet-clean-microservice-base/tests/Identity.Tests" Presentation="&amp;lt;Services&amp;gt;\&amp;lt;User&amp;gt;\&amp;lt;Identity.Tests&amp;gt;" /&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=92023a56_002D412b_002D4ca4_002Da0f5_002D7d1ac324c7b8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Handle_CreateShouldThrowArgumentException_WhenDataIsInvalid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

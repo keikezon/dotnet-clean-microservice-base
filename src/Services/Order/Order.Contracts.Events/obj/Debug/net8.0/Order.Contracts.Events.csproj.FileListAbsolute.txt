@@ -1,0 +1,15 @@
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/bin/Debug/net8.0/Order.Contracts.Events.deps.json
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/bin/Debug/net8.0/Order.Contracts.Events.dll
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/bin/Debug/net8.0/Order.Contracts.Events.pdb
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/Order.Contracts.Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/Order.Contracts.Events.AssemblyInfoInputs.cache
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/Order.Contracts.Events.AssemblyInfo.cs
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/Order.Contracts.Events.csproj.CoreCompileInputs.cache
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/Order.Contracts.Events.dll
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/refint/Order.Contracts.Events.dll
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/Order.Contracts.Events.pdb
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/ref/Order.Contracts.Events.dll
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/bin/Debug/net8.0/Common.dll
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/bin/Debug/net8.0/Common.pdb
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/Order.Contracts.Events.csproj.AssemblyReference.cache
+/Users/keith/Downloads/dotnet-clean-microservice-base/src/Services/Order/Order.Contracts.Events/obj/Debug/net8.0/Order.Co.630ECE79.Up2Date
