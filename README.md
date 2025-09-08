@@ -20,7 +20,7 @@ Principais tecnologias:
 | Products | 8010  | Controle de produto e estoque | [products.md](./docs/products.md) |
 | Api    | 8000  | Api Gateway a ser usada      |       |
 | RabbitMQ | 15672 | Mensageria                    |  |
-| Jaeger | 16686 | Telemetria                    |  |
+| Jaeger | 16686 | Tracing                    |  |
 
 ## 🛒 Guia de Uso - Cadastro, Login, Produtos e Pedidos
 **Fluxo para testar a api:** [Clique aqui](./docs/guide.md)
