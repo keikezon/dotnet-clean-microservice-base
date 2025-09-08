@@ -24,6 +24,12 @@ Responsável por gerenciar **usuários**, incluindo:
 
 ---
 
+## Usuário admin para testes (pré-cadastrado, pronto para uso)
+email: admin@email.com
+password: admin@123
+
+---
+
 ### Criar Usuário
 
 Cria um novo usuário no sistema e retorna os detalhes do usuário criado.
